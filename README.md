@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
+<h1>Olá👋 Eu sou a Belatrix</h1>
+ <h3>SOBRE MIM</h3>
+  <p>👩‍💻 Estudante de Informática no Institudo federal de SC</p>
+  <p>🎯 Foco atual: Construindo uma base sólida em lógica de programação com java, aprendendo sobre web design e aplicando meu conhecimento em projetos.</p>
+  <p>🚀 Objetivo: Desenvolver projetos práticos, aprimorar minhas habilidades de código e criar um portfólio completo ao longo do curso.</p>
+</div>
 
-<!--
-**BelatrixOliv/BelatrixOliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+  <h3>LINGUAGENS</h3>
+<p>
 
-Here are some ideas to get you started:
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45"/>
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" />
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45"/>
+          
+               
+  
+</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BelatrixOliv&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
+</div>
