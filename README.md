@@ -27,6 +27,3 @@
 </p>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BelatrixOliv&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
-</div>
