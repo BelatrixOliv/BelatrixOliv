@@ -1,9 +1,6 @@
 <div align="center">
-<h1>Olá👋 Eu sou a Belatrix</h1>
- <h3>SOBRE MIM</h3>
-  <p>👩‍💻 Estudante de Informática no Institudo federal de SC</p>
-  <p>🎯 Foco atual: Construindo uma base sólida em lógica de programação com java, aprendendo sobre web design e aplicando meu conhecimento em projetos.</p>
-  <p>🚀 Objetivo: Desenvolver projetos práticos, aprimorar minhas habilidades de código e criar um portfólio completo ao longo do curso.</p>
+<h1>Olá Eu sou a Belatrix</h1>
+
 </div>
 
 <div>
